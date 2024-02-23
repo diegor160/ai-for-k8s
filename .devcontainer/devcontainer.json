@@ -29,7 +29,8 @@
 				"yzhang.markdown-all-in-one",
 				"ms-kubernetes-tools.vscode-kubernetes-tools",
 				"esbenp.prettier-vscode",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"ms-dotnettools.dotnet-interactive-vscode"
 			]
 		}
 	},
